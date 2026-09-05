@@ -1,4 +1,5 @@
-# Messaging App
+# ChatMe
+## Messaging App
 
 A basic real-time messaging app using Node.js, Express, Socket.io, and SQL Server for storage.
 
